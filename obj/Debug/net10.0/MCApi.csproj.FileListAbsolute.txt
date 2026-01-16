@@ -1,0 +1,14 @@
+C:\Users\Thomas\Documents\api\MCApi\bin\Debug\net10.0\MCApi.exe
+C:\Users\Thomas\Documents\api\MCApi\bin\Debug\net10.0\MCApi.deps.json
+C:\Users\Thomas\Documents\api\MCApi\bin\Debug\net10.0\MCApi.runtimeconfig.json
+C:\Users\Thomas\Documents\api\MCApi\bin\Debug\net10.0\MCApi.dll
+C:\Users\Thomas\Documents\api\MCApi\bin\Debug\net10.0\MCApi.pdb
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.AssemblyInfo.cs
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.dll
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\refint\MCApi.dll
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.pdb
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\MCApi.genruntimeconfig.cache
+C:\Users\Thomas\Documents\api\MCApi\obj\Debug\net10.0\ref\MCApi.dll
